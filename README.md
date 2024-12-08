@@ -7,7 +7,7 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -15,7 +15,7 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **pranavbisariya29@gmail.com**
+- 📫 How to reach me **rishabhmishra7570@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabhmishra51](https://github.com/rishabhmishra51)
 
@@ -24,9 +24,9 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/profile.php?id=100009328235979" target="blank"><img align="left" alt="Pranav Bisaria | Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> </a>
 <a href="https://twitter.com/rishabhmishra5129" target="blank"><img align="left" alt="Pranav Bisaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a> 
-<a href="https://t.me/Pranav_Bisaria" target="blank"><img align="left" alt="Pranav Bisaria | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670070.png" /></a> 
-<a href="https://www.linkedin.com/in/rishabhmishra51/" target="blank"><img align="left" alt="Pranav Bisaria | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a> 
-<a href="https://www.instagram.com/pranav_bisaria_kayastha/" target="blank"><img align="left" alt="Pranav Bisaria | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" /></a><br><br>
+<a href="https://t.me/P" target="blank"><img align="left" alt="Pranav Bisaria | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670070.png" /></a> 
+<a href="https://www.linkedin.com/" target="blank"><img align="left" alt="Pranav Bisaria | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a> 
+<a href="https://www.instagram.com" target="blank"><img align="left" alt="Pranav Bisaria | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" /></a><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -60,10 +60,10 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 ![](https://api.visitorbadge.io/api/VisitorHit?user=rishabhmishra51&repo=rishabhmishra51&countColor=%237B1E7A)
 <hr>
 
-[![Pranav Bisaria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabhmishra51&theme=github-compact&area=true&bg_color=ffff&color=000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishabh Mishra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabhmishra51&theme=github-compact&area=true&bg_color=ffff&color=000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra51&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/rishabhmishra51">![Pranav Bisaria's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhmishra51&show_icons=true&hide=&count_private=true&title_color=0891b&icon_color=0891b2&hide_border=true&show_icons=true)</a></br></br>
-[![Pranav Bisaria's GitHub Streak](https://streak-stats.demolab.com/?user=rishabhmishra51)](https://git.io/streak-stats)
+<a href="http://www.github.com/rishabhmishra51">![Rishabh Mishra's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhmishra51&show_icons=true&hide=&count_private=true&title_color=0891b&icon_color=0891b2&hide_border=true&show_icons=true)</a></br></br>
+[![Rishabh Mishra's GitHub Streak](https://streak-stats.demolab.com/?user=rishabhmishra51)](https://git.io/streak-stats)
