@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Pranav Bisaria</h1>
+<h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Rishabh Mishra</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 A Passionate Backend Developer 👨‍💻 | Coder | Learner
